@@ -1,0 +1,2 @@
+class SensorReadingError(Exception):
+    pass

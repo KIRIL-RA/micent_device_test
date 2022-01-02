@@ -14,6 +14,6 @@ def server_log_event(Time, Event):
 
 def server_error_log(Time, Event):
     f = open(DIRECTORY + "server_error.csv", "a")
-    print("-- Server error: " + str(Time) + " : " + Event)
-    f.write(str(Time) + ", " + Event + "\n")
+    print("-- Server error: " + str(Time) + " : " + str(Event))
+    f.write(str(Time) + ", " + str(Event) + "\n")
     f.close()

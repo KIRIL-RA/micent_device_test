@@ -11,14 +11,17 @@ def check_need_send_data(parameters, previous_parameters):
             return True
     return False
 
-def autocontrol(parameters, previous_parameters, automode_parameters, id):
+def check_connected_devices(parameters, connected_devices):
+    if(not connected_devices["temperature_humidity_sensor"]): file_log_event(parameters["now_time"], "Temperature control disabled decause humidity-temperaute sensor disconnected")
+
+def autocontrol(parameters, previous_parameters, automode_parameters, connected_devices, id):
     if check_need_send_data(parameters, previous_parameters):
         send_data(parameters, id)
 
     for key in parameters:
         previous_parameters[key] = parameters[key]
 
-    temperature_control(parameters, automode_parameters)
+    if(connected_devices["temperature_humidity_sensor"]): temperature_control(parameters, automode_parameters)
     light_control(parameters, automode_parameters)
     ventilation_control(parameters, automode_parameters)
 

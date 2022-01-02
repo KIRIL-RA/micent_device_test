@@ -7,3 +7,268 @@
 2021-12-30 00:06:47.122390, Ventilation stoped, caller: ventilation_control
 2021-12-30 00:07:33.765189, Ventilation started, caller: ventilation_control
 2021-12-30 00:07:43.879521, Ventilation stoped, caller: ventilation_control
+2022-01-02 21:24:54.683785, Error reading sensor data, attempt: 1
+2022-01-02 21:24:54.802809, Light started
+2022-01-02 21:24:54.802809, Ventilation started, caller: ventilation_control
+2022-01-02 21:24:59.701863, Error reading sensor data, attempt: 2
+2022-01-02 21:25:04.826968, Ventilation stoped, caller: ventilation_control
+2022-01-02 21:25:04.826968, Error reading sensor data, attempt: 3
+2022-01-02 21:25:10.223130, Error reading sensor data, attempt: 4
+2022-01-02 21:25:15.506269, Error reading sensor data, attempt: 5
+2022-01-02 21:25:20.909434, Error reading sensor data, attempt: 6
+2022-01-02 21:25:26.178570, Error reading sensor data, attempt: 7
+2022-01-02 21:25:31.408696, Error reading sensor data, attempt: 8
+2022-01-02 21:25:36.705837, Error reading sensor data, attempt: 9
+2022-01-02 21:25:42.031986, Error reading sensor data, attempt: 10
+2022-01-02 21:25:47.245108, Error reading sensor data, attempt: 11
+2022-01-02 21:25:52.482238, Error reading sensor data, attempt: 12
+2022-01-02 21:25:57.762378, Error reading sensor data, attempt: 13
+2022-01-02 21:26:03.002505, Error reading sensor data, attempt: 14
+2022-01-02 21:26:08.308649, Error reading sensor data, attempt: 15
+2022-01-02 21:26:13.474761, Error reading sensor data, attempt: 16
+2022-01-02 21:26:18.672881, Error reading sensor data, attempt: 17
+2022-01-02 21:26:23.941018, Error reading sensor data, attempt: 18
+2022-01-02 21:26:29.260163, Error reading sensor data, attempt: 19
+2022-01-02 21:26:34.527298, Error reading sensor data, attempt: 20
+2022-01-02 21:26:39.772428, Error reading sensor data, attempt: 21
+2022-01-02 21:26:45.019558, Error reading sensor data, attempt: 22
+2022-01-02 21:26:50.294696, Error reading sensor data, attempt: 23
+2022-01-02 21:26:55.677855, Error reading sensor data, attempt: 24
+2022-01-02 21:27:00.889979, Error reading sensor data, attempt: 25
+2022-01-02 21:27:06.192120, Error reading sensor data, attempt: 26
+2022-01-02 21:27:11.476258, Error reading sensor data, attempt: 27
+2022-01-02 21:27:16.726391, Error reading sensor data, attempt: 28
+2022-01-02 21:27:21.964519, Error reading sensor data, attempt: 29
+2022-01-02 21:27:27.199647, Error reading sensor data, attempt: 30
+2022-01-02 21:27:32.397768, Error reading sensor data, attempt: 31
+2022-01-02 21:27:37.590887, Error reading sensor data, attempt: 32
+2022-01-02 21:27:42.869025, Error reading sensor data, attempt: 33
+2022-01-02 21:27:48.168166, Error reading sensor data, attempt: 34
+2022-01-02 21:27:53.374287, Error reading sensor data, attempt: 35
+2022-01-02 21:27:58.569406, Error reading sensor data, attempt: 36
+2022-01-02 21:28:03.861550, Error reading sensor data, attempt: 37
+2022-01-02 21:28:09.055668, Error reading sensor data, attempt: 38
+2022-01-02 21:28:14.339807, Error reading sensor data, attempt: 39
+2022-01-02 21:28:19.539927, Error reading sensor data, attempt: 40
+2022-01-02 21:28:24.906083, Error reading sensor data, attempt: 41
+2022-01-02 21:28:30.288041, Error reading sensor data, attempt: 42
+2022-01-02 21:28:35.510165, Error reading sensor data, attempt: 43
+2022-01-02 21:28:40.724288, Error reading sensor data, attempt: 44
+2022-01-02 21:28:45.994846, Error reading sensor data, attempt: 45
+2022-01-02 21:28:51.188524, Error reading sensor data, attempt: 46
+2022-01-02 21:28:56.446657, Error reading sensor data, attempt: 47
+2022-01-02 21:29:01.746798, Error reading sensor data, attempt: 48
+2022-01-02 21:29:07.042966, Error reading sensor data, attempt: 49
+2022-01-02 21:29:12.319924, Error reading sensor data, attempt: 50
+2022-01-02 21:29:17.626429, Error reading sensor data, attempt: 51
+2022-01-02 21:29:22.750532, Error reading sensor data, attempt: 52
+2022-01-02 21:29:28.085035, Error reading sensor data, attempt: 53
+2022-01-02 21:29:33.363172, Error reading sensor data, attempt: 54
+2022-01-02 21:29:38.681318, Error reading sensor data, attempt: 55
+2022-01-02 21:29:44.042473, Error reading sensor data, attempt: 56
+2022-01-02 21:29:49.272601, Error reading sensor data, attempt: 57
+2022-01-02 21:29:54.542737, Error reading sensor data, attempt: 58
+2022-01-02 21:29:59.804870, Error reading sensor data, attempt: 59
+2022-01-02 21:30:05.033998, Error reading sensor data, attempt: 60
+2022-01-02 21:30:10.318135, Error reading sensor data, attempt: 61
+2022-01-02 21:30:15.584270, Error reading sensor data, attempt: 62
+2022-01-02 21:30:20.860406, Error reading sensor data, attempt: 63
+2022-01-02 21:30:26.116540, Error reading sensor data, attempt: 64
+2022-01-02 21:30:31.855775, Error reading sensor data, attempt: 65
+2022-01-02 21:30:37.142916, Error reading sensor data, attempt: 66
+2022-01-02 21:30:42.456061, Error reading sensor data, attempt: 67
+2022-01-02 21:30:47.643179, Error reading sensor data, attempt: 68
+2022-01-02 21:30:52.899310, Error reading sensor data, attempt: 69
+2022-01-02 21:30:58.131438, Error reading sensor data, attempt: 70
+2022-01-02 21:31:03.438582, Error reading sensor data, attempt: 71
+2022-01-02 21:31:08.735722, Error reading sensor data, attempt: 72
+2022-01-02 21:31:14.072875, Error reading sensor data, attempt: 73
+2022-01-02 21:31:19.331007, Error reading sensor data, attempt: 74
+2022-01-02 21:31:24.608143, Error reading sensor data, attempt: 75
+2022-01-02 21:31:29.832267, Error reading sensor data, attempt: 76
+2022-01-02 21:31:35.031389, Error reading sensor data, attempt: 77
+2022-01-02 21:31:40.299525, Error reading sensor data, attempt: 78
+2022-01-02 21:31:45.546654, Error reading sensor data, attempt: 79
+2022-01-02 21:31:50.804789, Error reading sensor data, attempt: 80
+2022-01-02 21:31:56.118933, Error reading sensor data, attempt: 81
+2022-01-02 21:32:01.386070, Error reading sensor data, attempt: 82
+2022-01-02 21:32:06.570186, Error reading sensor data, attempt: 83
+2022-01-02 21:32:11.893332, Error reading sensor data, attempt: 84
+2022-01-02 21:32:17.167470, Error reading sensor data, attempt: 85
+2022-01-02 21:32:22.482617, Error reading sensor data, attempt: 86
+2022-01-02 21:32:27.758752, Error reading sensor data, attempt: 87
+2022-01-02 21:32:33.000883, Error reading sensor data, attempt: 88
+2022-01-02 21:32:38.246012, Error reading sensor data, attempt: 89
+2022-01-02 21:32:43.483140, Error reading sensor data, attempt: 90
+2022-01-02 21:32:48.763277, Error reading sensor data, attempt: 91
+2022-01-02 21:32:54.045417, Error reading sensor data, attempt: 92
+2022-01-02 21:32:59.375564, Error reading sensor data, attempt: 93
+2022-01-02 21:33:04.690709, Error reading sensor data, attempt: 94
+2022-01-02 21:33:09.981850, Error reading sensor data, attempt: 95
+2022-01-02 21:33:15.171969, Error reading sensor data, attempt: 96
+2022-01-02 21:33:20.438104, Error reading sensor data, attempt: 97
+2022-01-02 21:33:25.722242, Error reading sensor data, attempt: 98
+2022-01-02 21:33:31.082398, Error reading sensor data, attempt: 99
+2022-01-02 21:33:36.200500, Error reading sensor data, attempt: 100
+2022-01-02 21:33:41.593662, Error reading sensor data, attempt: 101
+2022-01-02 21:33:46.922810, Error reading sensor data, attempt: 102
+2022-01-02 21:33:52.190946, Error reading sensor data, attempt: 103
+2022-01-02 21:33:57.484085, Error reading sensor data, attempt: 104
+2022-01-02 21:34:02.758223, Error reading sensor data, attempt: 105
+2022-01-02 21:34:08.134381, Error reading sensor data, attempt: 106
+2022-01-02 21:34:13.308495, Error reading sensor data, attempt: 107
+2022-01-02 21:34:18.586634, Error reading sensor data, attempt: 108
+2022-01-02 21:34:23.754748, Error reading sensor data, attempt: 109
+2022-01-02 21:34:29.043077, Error reading sensor data, attempt: 110
+2022-01-02 21:34:34.365223, Error reading sensor data, attempt: 111
+2022-01-02 21:34:39.617356, Error reading sensor data, attempt: 112
+2022-01-02 21:34:44.784475, Error reading sensor data, attempt: 113
+2022-01-02 21:34:50.012594, Error reading sensor data, attempt: 114
+2022-01-02 21:34:55.234723, Error reading sensor data, attempt: 115
+2022-01-02 21:35:00.562871, Error reading sensor data, attempt: 116
+2022-01-02 21:35:05.814000, Error reading sensor data, attempt: 117
+2022-01-02 21:35:11.052128, Error reading sensor data, attempt: 118
+2022-01-02 21:35:16.317266, Error reading sensor data, attempt: 119
+2022-01-02 21:35:21.577397, Error reading sensor data, attempt: 120
+2022-01-02 21:35:26.802523, Error reading sensor data, attempt: 121
+2022-01-02 21:35:32.014648, Error reading sensor data, attempt: 122
+2022-01-02 21:35:37.291783, Error reading sensor data, attempt: 123
+2022-01-02 21:35:42.646936, Error reading sensor data, attempt: 124
+2022-01-02 21:35:47.957081, Error reading sensor data, attempt: 125
+2022-01-02 21:35:53.237220, Error reading sensor data, attempt: 126
+2022-01-02 21:35:58.493353, Error reading sensor data, attempt: 127
+2022-01-02 21:36:03.774490, Error reading sensor data, attempt: 128
+2022-01-02 21:36:09.028622, Error reading sensor data, attempt: 129
+2022-01-02 21:36:14.306761, Error reading sensor data, attempt: 130
+2022-01-02 21:36:19.568899, Error reading sensor data, attempt: 131
+2022-01-02 21:36:24.929049, Error reading sensor data, attempt: 132
+2022-01-02 21:36:30.203188, Error reading sensor data, attempt: 133
+2022-01-02 21:36:35.443314, Error reading sensor data, attempt: 134
+2022-01-02 21:36:40.674443, Error reading sensor data, attempt: 135
+2022-01-02 21:36:45.894567, Error reading sensor data, attempt: 136
+2022-01-02 21:36:51.137697, Error reading sensor data, attempt: 137
+2022-01-02 21:36:56.423838, Error reading sensor data, attempt: 138
+2022-01-02 21:37:01.705975, Error reading sensor data, attempt: 139
+2022-01-02 21:37:06.906095, Error reading sensor data, attempt: 140
+2022-01-02 21:37:12.148223, Error reading sensor data, attempt: 141
+2022-01-02 21:37:17.478373, Error reading sensor data, attempt: 142
+2022-01-02 21:37:22.746507, Error reading sensor data, attempt: 143
+2022-01-02 21:37:28.005639, Error reading sensor data, attempt: 144
+2022-01-02 21:37:33.263778, Error reading sensor data, attempt: 145
+2022-01-02 21:37:38.483899, Error reading sensor data, attempt: 146
+2022-01-02 21:37:43.750032, Error reading sensor data, attempt: 147
+2022-01-02 21:37:49.009166, Error reading sensor data, attempt: 148
+2022-01-02 21:37:54.416340, Error reading sensor data, attempt: 149
+2022-01-02 21:37:59.690473, Error reading sensor data, attempt: 150
+2022-01-02 21:38:04.989610, Error reading sensor data, attempt: 151
+2022-01-02 21:38:10.215736, Error reading sensor data, attempt: 152
+2022-01-02 21:38:15.550160, Error reading sensor data, attempt: 153
+2022-01-02 21:38:20.765281, Error reading sensor data, attempt: 154
+2022-01-02 21:38:26.091430, Error reading sensor data, attempt: 155
+2022-01-02 21:38:31.342195, Error reading sensor data, attempt: 156
+2022-01-02 21:38:36.568943, Error reading sensor data, attempt: 157
+2022-01-02 21:38:41.851767, Error reading sensor data, attempt: 158
+2022-01-02 21:38:47.113901, Error reading sensor data, attempt: 159
+2022-01-02 21:38:52.390038, Error reading sensor data, attempt: 160
+2022-01-02 21:38:57.584890, Error reading sensor data, attempt: 161
+2022-01-02 21:39:02.862295, Error reading sensor data, attempt: 162
+2022-01-02 21:39:08.211189, Error reading sensor data, attempt: 163
+2022-01-02 21:39:13.370302, Error reading sensor data, attempt: 164
+2022-01-02 21:39:18.625432, Error reading sensor data, attempt: 165
+2022-01-02 21:39:23.906574, Error reading sensor data, attempt: 166
+2022-01-02 21:39:29.112692, Error reading sensor data, attempt: 167
+2022-01-02 21:39:34.351092, Error reading sensor data, attempt: 168
+2022-01-02 21:39:39.673239, Error reading sensor data, attempt: 169
+2022-01-02 21:39:44.950378, Error reading sensor data, attempt: 170
+2022-01-02 21:39:50.144517, Error reading sensor data, attempt: 171
+2022-01-02 21:46:15.012741, Error reading sensor data, attempt: 1
+2022-01-02 21:46:15.112762, Light started
+2022-01-02 21:46:15.112762, Ventilation started, caller: ventilation_control
+2022-01-02 21:46:17.046176, Error reading sensor data, attempt: 2
+2022-01-02 21:46:19.350675, Error reading sensor data, attempt: 3
+2022-01-02 21:46:21.575554, Error reading sensor data, attempt: 4
+2022-01-02 21:46:23.847701, Error reading sensor data, attempt: 5
+2022-01-02 21:46:24.020740, Temperature and humidity sensor not connected, please power off device, connect sensor and power on device
+2022-01-02 21:46:25.136980, Ventilation stoped, caller: ventilation_control
+2022-01-02 21:47:46.517808, Error reading sensor data, attempt: 1
+2022-01-02 21:47:46.617830, Light started
+2022-01-02 21:47:46.617830, Ventilation started, caller: ventilation_control
+2022-01-02 21:47:48.547244, Error reading sensor data, attempt: 2
+2022-01-02 21:47:50.777727, Error reading sensor data, attempt: 3
+2022-01-02 21:47:53.029213, Error reading sensor data, attempt: 4
+2022-01-02 21:47:55.280695, Error reading sensor data, attempt: 5
+2022-01-02 21:47:55.424727, Temperature and humidity sensor not connected, please power off device, connect sensor and power on device
+2022-01-02 21:47:56.650990, Ventilation stoped, caller: ventilation_control
+2022-01-02 21:55:09.538763, Error reading sensor data, attempt: 1
+2022-01-02 21:55:09.538763, Error reading sensor data, attempt: 2
+2022-01-02 21:55:09.538763, Error reading sensor data, attempt: 3
+2022-01-02 21:55:09.538763, Error reading sensor data, attempt: 4
+2022-01-02 21:55:09.538763, Error reading sensor data, attempt: 5
+2022-01-02 21:55:09.538763, Temperature and humidity sensor not connected, please power off device, connect sensor and power on device
+2022-01-02 21:55:17.664514, Light started
+2022-01-02 21:55:17.664514, Ventilation started, caller: ventilation_control
+2022-01-02 21:55:27.695751, Ventilation stoped, caller: ventilation_control
+2022-01-02 21:55:35.815383, Error reading sensor data, attempt: 1
+2022-01-02 21:55:35.815383, Error reading sensor data, attempt: 2
+2022-01-02 21:55:35.815383, Error reading sensor data, attempt: 3
+2022-01-02 21:55:35.815383, Error reading sensor data, attempt: 4
+2022-01-02 21:55:35.815383, Error reading sensor data, attempt: 5
+2022-01-02 21:55:35.815383, Temperature and humidity sensor not connected, please power off device, connect sensor and power on device
+2022-01-02 21:55:43.927131, Light started
+2022-01-02 21:55:43.927131, Ventilation started, caller: ventilation_control
+2022-01-02 21:55:53.958726, Ventilation stoped, caller: ventilation_control
+2022-01-02 22:02:31.359154, Error reading sensor data, attempt: 1
+2022-01-02 22:02:33.367586, Error reading sensor data, attempt: 2
+2022-01-02 22:02:35.376022, Error reading sensor data, attempt: 3
+2022-01-02 22:02:37.383451, Error reading sensor data, attempt: 4
+2022-01-02 22:02:39.390883, Error reading sensor data, attempt: 5
+2022-01-02 22:02:39.390883, Temperature and humidity sensor not connected, please power off device, connect sensor and power on device
+2022-01-02 22:02:39.390883, Ventilation started, caller: ventilation_control
+2022-01-02 22:04:21.840429, Error reading sensor data, attempt: 1
+2022-01-02 22:04:21.840429, Error reading sensor data, attempt: 2
+2022-01-02 22:04:21.840429, Error reading sensor data, attempt: 3
+2022-01-02 22:04:21.840429, Error reading sensor data, attempt: 4
+2022-01-02 22:04:21.840429, Error reading sensor data, attempt: 5
+2022-01-02 22:04:21.840429, Temperature and humidity sensor not connected, please power off device, connect sensor and power on device
+2022-01-02 22:04:21.840429, Temperature control disabled decause humidity-temperaute sensor disconnected
+2022-01-02 22:04:29.974158, Ventilation started, caller: ventilation_control
+2022-01-02 22:04:39.984311, Ventilation stoped, caller: ventilation_control
+2022-01-02 22:05:32.385655, Ventilation started, caller: ventilation_control
+2022-01-02 22:05:42.471494, Ventilation stoped, caller: ventilation_control
+2022-01-02 22:08:30.730012, Ventilation started, caller: ventilation_control
+2022-01-02 22:08:40.832190, Ventilation stoped, caller: ventilation_control
+2022-01-02 22:09:07.517153, Error reading sensor data, attempt: 1
+2022-01-02 22:09:07.517153, Error reading sensor data, attempt: 2
+2022-01-02 22:09:07.517153, Error reading sensor data, attempt: 3
+2022-01-02 22:09:07.517153, Error reading sensor data, attempt: 4
+2022-01-02 22:09:07.517153, Error reading sensor data, attempt: 5
+2022-01-02 22:09:07.517153, Temperature and humidity sensor not connected, please power off device, connect sensor and power on device
+2022-01-02 22:09:07.517153, Temperature control disabled decause humidity-temperaute sensor disconnected
+2022-01-02 22:09:15.664935, Ventilation started, caller: ventilation_control
+2022-01-02 22:09:27.696855, Ventilation started, caller: ventilation_control
+2022-01-02 22:09:37.806078, Ventilation stoped, caller: ventilation_control
+2022-01-02 22:09:42.620606, Error reading sensor data, attempt: 1
+2022-01-02 22:09:42.620606, Error reading sensor data, attempt: 2
+2022-01-02 22:09:42.620606, Error reading sensor data, attempt: 3
+2022-01-02 22:09:42.620606, Error reading sensor data, attempt: 4
+2022-01-02 22:09:42.620606, Error reading sensor data, attempt: 5
+2022-01-02 22:09:42.620606, Temperature and humidity sensor not connected, please power off device, connect sensor and power on device
+2022-01-02 22:09:42.620606, Temperature control disabled decause humidity-temperaute sensor disconnected
+2022-01-02 22:09:50.749367, Ventilation started, caller: ventilation_control
+2022-01-02 22:09:59.416717, Ventilation started, caller: ventilation_control
+2022-01-02 22:10:09.512891, Ventilation stoped, caller: ventilation_control
+2022-01-02 22:11:41.861421, Ventilation started, caller: ventilation_control
+2022-01-02 22:11:51.957968, Ventilation stoped, caller: ventilation_control
+2022-01-02 22:11:56.960046, Error reading sensor data, attempt: 1
+2022-01-02 22:11:56.960046, Error reading sensor data, attempt: 2
+2022-01-02 22:11:56.960046, Error reading sensor data, attempt: 3
+2022-01-02 22:11:56.960046, Error reading sensor data, attempt: 4
+2022-01-02 22:11:56.960046, Error reading sensor data, attempt: 5
+2022-01-02 22:11:56.960046, Temperature and humidity sensor not connected, please power off device, connect sensor and power on device
+2022-01-02 22:11:56.960046, Temperature control disabled decause humidity-temperaute sensor disconnected
+2022-01-02 22:12:05.088426, Ventilation started, caller: ventilation_control
+2022-01-02 22:12:15.095742, Ventilation stoped, caller: ventilation_control
+2022-01-02 22:12:23.965551, Ventilation started, caller: ventilation_control
+2022-01-02 22:12:34.086729, Ventilation stoped, caller: ventilation_control
+2022-01-02 22:16:07.828387, Ventilation started, caller: ventilation_control
+2022-01-02 22:16:28.894926, Ventilation stoped, caller: ventilation_control

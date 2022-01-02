@@ -39,6 +39,8 @@ def send_data(parameters, id):
     send_url += 'pump=' + str(int(parameters["pump"])) + '&'
     send_url += 'auto=' + str(int(parameters["auto"]))
 
-    # Send data to server
-    requests.get(send_url)
-    server_log_event(parameters["now_time"], "Sended data")
+    try:# Send data to server
+        requests.get(send_url)
+        server_log_event(parameters["now_time"], "Sended data")
+    except Exception:
+        server_error_log(parameters["now_time"], Exception)
